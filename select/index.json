@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ガーネット",
+  "base_artist": "奥 華子",
+  "createdAt": "2025-12-14T06:54:24.487084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガーネット",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/01_ガーネット_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガーネット",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/02_ガーネット_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガーネット",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/03_ガーネット_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガーネット",
+      "artist": "Hanako Oku",
+      "has_synced": true,
+      "path": "select/04_ガーネット_Hanako_Oku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ガーネット(\t映画主題歌賞)",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/05_ガーネット(_映画主題歌賞)_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ガーネット",
+      "artist": "Hanako Oku",
+      "has_synced": true,
+      "path": "select/06_ガーネット_Hanako_Oku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ガーネット",
+      "artist": "奥 華子",
+      "has_synced": true,
+      "path": "select/07_ガーネット_奥_華子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ガーネット (弾き語り)",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/08_ガーネット_(弾き語り)_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ガーネット (弾き語り)",
+      "artist": "Hanako Oku",
+      "has_synced": true,
+      "path": "select/09_ガーネット_(弾き語り)_Hanako_Oku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ガーネット (弾き語り)",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/10_ガーネット_(弾き語り)_奥華子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガーネット (弾き語り)",
+      "artist": "奥 華子",
+      "has_synced": false,
+      "path": "select/pl_01_ガーネット_(弾き語り)_奥_華子.txt"
+    }
+  ]
+}
